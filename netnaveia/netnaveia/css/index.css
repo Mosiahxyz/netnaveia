@@ -17,7 +17,7 @@ text-align: left;
 
 
 
- a{
+a{
     
     text-decoration:none; /*tira o grifado feio dos links*/
     padding:5px 10px; /*aumenta o espaço do menu*/
@@ -39,6 +39,14 @@ i{
     padding:3px 7px;
     
     }
+
+.parti{
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+}
 
 
 
